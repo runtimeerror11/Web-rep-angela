@@ -1,0 +1,5 @@
+command for git hub are as follows
+git init ....... will have git installed in tht folder which will help in analysiing inti
+
+we edit file and add it to staging area by 
+git add ch1.txt  ....which => it is ready for commiting
