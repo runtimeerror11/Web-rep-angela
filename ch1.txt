@@ -2,11 +2,14 @@ command for git hub are as follows
 ^ git init ....... will have git installed in tht folder which will help in analysiing inti
 
 we edit file and add it to staging area by 
-^ git add ch1.txt  ....which => it is ready for commiting
+^ git add ch1.txt    ....which => it is ready for commiting
+^ git add .      ....will add all files in tht directory to staging area
+
 
 ^ git status ...... will show which files are tracked and ready for being commmited and which are untracked
 
 ^ git commit -m "Msg which will be displayed to let know what is commited"  ..for commiting
 
-
+^ git log .tells what commit has been made
+...to come out of git log we presss q+enter
 
